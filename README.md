@@ -1,4 +1,6 @@
-Sample size of 2000 votes tested using Testing.py
+**Sample size of 2000 votes tested using Testing.py**
+
+
 **Follow these steps to simulate the voting process:**
 
 To cast vote, enter your voter id (in the form 23b0xxx). For the project I have used voters in the range of 23b0301 to 23b0329 (check CSV file)
